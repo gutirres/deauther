@@ -1,4 +1,4 @@
-# ESP8266 Deauther Version 2
+# ESP8266 Deauther Version 2.
 
 <p align="center">
   <img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/spacehuhn/esp8266_deauther/img/deauther_logo.png" width="200">
